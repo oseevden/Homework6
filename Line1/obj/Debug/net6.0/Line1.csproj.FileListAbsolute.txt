@@ -1,0 +1,15 @@
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\Line1\obj\Debug\net6.0\Line1.csproj.AssemblyReference.cache
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\Line1\obj\Debug\net6.0\Line1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\Line1\obj\Debug\net6.0\Line1.AssemblyInfoInputs.cache
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\Line1\obj\Debug\net6.0\Line1.AssemblyInfo.cs
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\Line1\obj\Debug\net6.0\Line1.csproj.CoreCompileInputs.cache
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\Line1\bin\Debug\net6.0\Line1.exe
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\Line1\bin\Debug\net6.0\Line1.deps.json
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\Line1\bin\Debug\net6.0\Line1.runtimeconfig.json
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\Line1\bin\Debug\net6.0\Line1.dll
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\Line1\bin\Debug\net6.0\Line1.pdb
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\Line1\obj\Debug\net6.0\Line1.dll
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\Line1\obj\Debug\net6.0\refint\Line1.dll
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\Line1\obj\Debug\net6.0\Line1.pdb
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\Line1\obj\Debug\net6.0\Line1.genruntimeconfig.cache
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\Line1\obj\Debug\net6.0\ref\Line1.dll
